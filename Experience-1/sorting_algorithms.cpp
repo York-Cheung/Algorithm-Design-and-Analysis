@@ -1,27 +1,8 @@
-#include "sorting_algorithms.cpp"
+#include "sorting_algorithms.h"
 
 using namespace std;
 
-// 冒泡排序(bubble sorting)
-// 最大时间代价：θ(n^2)
-// 最小时间代价：θ(n^2)
-// 平均时间代价：θ(n^2)
-void SortingFunctions::bubble(int array[], int n)
-{
-    for (int i = 0; i < n - 1; i++)
-    {
-        for (int j = n - 1; j > 1; j--)
-        {
-            if (array[j] < array[j - 1])
-                swap(array[j], array[j - 1]);
-        }
-    }
-}
-
-// 选择排序(selection sorting)
-// 最大时间代价：θ(n^2)
-// 最小时间代价：θ(n^2)
-// 平均时间代价：θ(n^2)
+// 选择排序
 void SortingFunctions::selectionSort(int array[], int n)
 {
     for (int i = 0; i < n - 1; i++)
@@ -37,49 +18,15 @@ void SortingFunctions::selectionSort(int array[], int n)
     }
 }
 
-// 插入排序(insert sorting)
-// 最大时间代价：θ(n^2)
-// 最小时间代价：θ(n)
-// 平均时间代价：θ(n^2)
-void SortingFunctions::insertSort(int array[], int n)
+// 冒泡排序
+void SortingFunctions::bubble(int array[], int n)
 {
-    for (int i = 1; i < n; i++)
+    for (int i = 0; i < n - 1; i++)
     {
-        for (int j = i; j > 0; j--)
+        for (int j = n - 1; j > 1; j--)
         {
             if (array[j] < array[j - 1])
-                swap(array[j - 1], array[j]);
-            else
-                break;
-        }
-    }
-}
-
-// 希尔排序(shell sorting)
-// 平均时间代价：θ(n^1.5) 增量每次除以2的情况下
-void SortingFunctions::shellSort(int array[], int n)
-{
-    int i, j, k, l;
-    for (i = n / 2; i > 0; i /= 2)
-    {
-        for (j = 0; j < i; j++)
-        {
-            for (k = j + i; k < n; k += i)
-            {
-                for (l = k; l > i; )
-                {
-                    if (array[l] < array[l - i])
-                    {
-                        swap(array[l], array[l - i]);
-                        l -= i;
-                    }
-
-                    else
-                    {
-                        l -= i; break;
-                    }
-                }
-            }
+                swap(array[j], array[j - 1]);
         }
     }
 }
@@ -134,11 +81,7 @@ int SortingFunctions::partition(int array[], int left, int right)
     }
 }
 
-// 快速排序(quick sorting)
-// 最大时间代价：θ(n^2)
-// 最小时间代价：θ(n*logn)
-// 平均时间代价：θ(n*logn)
-// 最差情况下退化成冒泡排序法
+// 快速排序
 void SortingFunctions::quickSort(int array[], int left, int right)
 {
     if (right <= left)
@@ -148,17 +91,23 @@ void SortingFunctions::quickSort(int array[], int left, int right)
     quickSort(array, pivot + 1, right);
 }
 
-// 归并排序子函数
-// 把两个有序数组合并成一个有序数组
-void SortingFunctions::merge(int array[], int temp[], int left, int right)
+// 插入排序
+void SortingFunctions::insertSort(int array[], int n)
 {
-    ;
+    for (int i = 1; i < n; i++)
+    {
+        for (int j = i; j > 0; j--)
+        {
+            if (array[j] < array[j - 1])
+                swap(array[j - 1], array[j]);
+            else
+                break;
+        }
+    }
 }
 
-// 归并排序(merge sorting)
-// 最大时间代价：θ(n*logn)
-// 最小时间代价：θ(n*logn)
-// 平均时间代价：θ(n*logn)
+
+// 归并排序
 void SortingFunctions::mergeSort(int array[], int temp[], int left, int right)
 {
     int middle = (left + right) / 2;
@@ -182,43 +131,5 @@ void SortingFunctions::mergeSort(int array[], int temp[], int left, int right)
         {
             array[curr] = temp[k++];
         }
-    }
-}
-
-// 最大值堆调整函数
-// 用于插入或删除堆中的数值时重组堆的操作
-void SortingFunctions::maxHeapFix(int a[], int n, int i)
-{
-    int j, temp;
-    temp = a[i];
-    j = i * 2 + 1; // 节点i的子节点为 i*2+1, i*2+2  
-    while (j < n)
-    {
-        if (j + 1 < n && a[j] < a[j + 1])
-            j++;
-
-        if (a[j] <= temp)
-            break;
-
-        a[i] = a[j];
-        i = j;
-        j = i * 2 + 1;
-    }
-    a[i] = temp;
-}
-
-void SortingFunctions::maxHeap(int a[], int n)  // 建立最大值堆函数
-{
-    for (int i = n / 2 - 1; i >= 0; i--) // 数组中最多有(n / 2 - 1)个为非叶节点
-        maxHeapFix(a, n, i);
-}
-
-void SortingFunctions::maxHeapSort(int a[], int n)
-{
-    maxHeap(a, n);
-    for (int i = n - 1; i >= 1; i--)
-    {
-        swap(a[i], a[0]);
-        maxHeapFix(a, i, 0);
     }
 }

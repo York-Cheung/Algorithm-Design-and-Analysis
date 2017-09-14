@@ -1,6 +1,13 @@
 {
     "code-runner.runInTerminal": true,
     "files.associations": {
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "ios": "cpp",
+        "__tuple": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "iterator": "cpp",
+        "iostream": "cpp",
+        "ratio": "cpp"
     }
 }
