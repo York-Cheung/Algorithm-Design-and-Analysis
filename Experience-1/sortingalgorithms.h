@@ -1,5 +1,5 @@
-#ifndef SORTING_ALGORITHMS_H
-#define SORTING_ALGORITHMS_H
+#ifndef SORTINGALGORITHMS_H
+#define SORTINGALGORITHMS_H
 
 #include <iostream>
 #include <ctime>
