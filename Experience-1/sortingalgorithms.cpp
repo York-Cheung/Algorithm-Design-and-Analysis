@@ -52,7 +52,7 @@ int SortingFunctions::partition(int array[], int left, int right)
                 return i;
             }
             // 若轴值左边元素大于轴值，则与轴值右边j下标元素互换
-            if (array[i]>tmp) 
+            if (array[i] > tmp)
             {
                 array[j] = array[i];
                 j--;
@@ -70,7 +70,7 @@ int SortingFunctions::partition(int array[], int left, int right)
                 return j;
             }
             // 若轴值右边元素小于轴值，则与轴值坐边i下标元素互换
-            if (array[j]<tmp)
+            if (array[j] < tmp)
             {
                 array[i] = array[j];
                 i++;
@@ -106,18 +106,18 @@ void SortingFunctions::insertSort(int array[], int n)
     }
 }
 
-
 // 归并排序
 void SortingFunctions::mergeSort(int array[], int temp[], int left, int right)
 {
     int middle = (left + right) / 2;
-    if (left >= right) return;
+    if (left >= right)
+        return;
     mergeSort(array, temp, left, middle);
     mergeSort(array, temp, middle + 1, right);
     for (int i = left; i <= right; i++)
         temp[i] = array[i];
     // 分前后两部分
-    int j = left; 
+    int j = left;
     int k = middle + 1;
     for (int curr = left; curr <= right; curr++)
     {
