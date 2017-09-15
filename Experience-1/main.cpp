@@ -4,18 +4,19 @@ using namespace std;
 
 void help()
 {
-    cout << "Usage: main <sorting method> <size>" << endl;
+    cout << "Usage: main <sorting method> <size> <random seed>" << endl;
 }
 int main(int argc, char *argv[])
 {
-    if (argc != 3)
+    if (argc != 4)
     {
         help();
         return -1;
     }
     int SIZE = stol(argv[2]);
+    int SEED = stol(argv[3]);
     SortingFunctions sort;
-    srand(time(NULL));
+    srand(SEED);
     int a[SIZE];
     int b[SIZE];
     for (int i = 0; i < SIZE; ++i)
@@ -60,9 +61,9 @@ int main(int argc, char *argv[])
     long finish = clock();
 
     double totaltime = (double)(finish - start) / CLOCKS_PER_SEC; // 算法耗时计算
-    // for (int i = 0; i < SIZE; i++)
-    //     cout << a[i] << "  ";
-    // cout << endl;
+    for (int i = 0; i < SIZE; i++)
+        cout << a[i] << "  ";
+    cout << endl;
     cout << "Data size: " << SIZE << ' ' << "Time cost：" << totaltime << 's' << endl;
     cout << endl
          << endl;
