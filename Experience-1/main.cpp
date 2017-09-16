@@ -65,7 +65,7 @@ int main(int argc, char *argv[])
     // for (int i = 0; i < SIZE; i++)
     //     cout << a[i] << "  ";
     // cout << endl;
-    cout << "Data size: " << SIZE << ' ' << "Time cost：" << totaltime << 's' << endl;
+    cout << "Data size: " << SIZE << ' ' << "Time cost: " << totaltime << 's' << endl;
     cout << endl
          << endl;
     return 0;
