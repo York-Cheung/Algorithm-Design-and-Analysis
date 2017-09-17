@@ -1,0 +1,3702 @@
+script start...
+Selection sorting: 
+Data size: 10000 Time cost: 0.167639s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.173866s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.167345s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.172859s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.173779s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.183074s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.176385s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.168437s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.169826s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.167718s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.170856s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.169391s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.167236s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.167542s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.166814s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.170147s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.167183s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.169942s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.169303s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.167391s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.849186s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.808544s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.807228s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.853349s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.805461s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.81427s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.797648s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.876586s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.885535s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.930331s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.900703s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.860534s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.873414s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.86456s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 1.12139s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 1.16658s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.904384s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.906967s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.909381s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.867761s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.001925s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.0019s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002441s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002556s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.00215s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.001955s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002081s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002089s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.001897s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002062s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.001922s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.00202s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.001872s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002117s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.001865s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002134s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002233s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002125s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002141s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002652s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001424s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001417s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001451s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001429s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.00147s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.00146s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001405s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001495s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001453s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001406s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001482s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001444s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001417s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001405s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001504s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001525s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001605s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001424s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001562s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001486s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.416232s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.392251s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.438935s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.404926s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.492939s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.413657s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.395941s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.407351s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.456277s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.409234s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.413047s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.393859s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.402064s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.392344s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.388053s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.396077s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.390777s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.41633s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.398953s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.396173s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.705493s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.7204s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.692135s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.695296s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.7084s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.712934s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.6889s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.711486s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.704602s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.704988s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.691496s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.695313s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.694496s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.705773s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.724737s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.682367s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.690266s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.67843s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.687538s
+
+
+Selection sorting: 
+Data size: 20000 Time cost: 0.674748s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.4623s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.42989s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.48965s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.4228s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.45201s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.53528s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.4852s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.63881s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.56886s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.64956s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.46402s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.36579s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.31277s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.59989s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.73164s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.60688s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.54632s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.6445s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.60154s
+
+
+Bubble sorting: 
+Data size: 20000 Time cost: 3.46087s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004146s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.00513s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.005071s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004561s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.005046s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004619s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004861s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004964s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004259s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004371s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004411s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004358s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004114s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004491s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004277s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004537s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.00451s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004328s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004151s
+
+
+Merge sorting: 
+Data size: 20000 Time cost: 0.004238s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003476s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003847s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003832s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003809s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003835s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003873s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003909s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.00387s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003843s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003825s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003907s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003817s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003935s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003872s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003901s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003893s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003535s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.00308s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003006s
+
+
+Quick sorting:
+Data size: 20000 Time cost: 0.003148s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.51944s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.69828s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.58127s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.55884s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.50418s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.61602s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.69257s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.67131s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.74576s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.74075s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.58113s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.63052s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.77775s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.71839s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.72636s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.68327s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.68632s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.81777s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.71867s
+
+
+Insert sorting:
+Data size: 20000 Time cost: 1.66313s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.53524s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.52575s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.61326s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.50596s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.51417s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.50966s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.56677s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.64548s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.61205s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.63318s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.72016s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.62396s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.62975s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.62802s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.56912s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.61236s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.56837s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.53673s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.51585s
+
+
+Selection sorting: 
+Data size: 30000 Time cost: 1.5598s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.83858s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 8.18014s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 8.19309s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.64163s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.63543s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.86096s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.71692s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.70563s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.67026s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.71254s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.70328s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.8079s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 8.57732s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.91466s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.7328s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.70372s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.78478s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 8.57229s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.64965s
+
+
+Bubble sorting: 
+Data size: 30000 Time cost: 7.90662s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.006643s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.006439s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.00652s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.006488s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.007134s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.007148s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.006694s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.00671s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.006418s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.006495s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.006398s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.00635s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.006614s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.006346s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.006434s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.006838s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.006597s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.006932s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.007016s
+
+
+Merge sorting: 
+Data size: 30000 Time cost: 0.006377s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004698s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004981s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.00455s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004693s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004849s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.005259s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004668s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004806s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004775s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004914s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004825s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004793s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004748s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004601s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004802s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.00465s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.00459s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004715s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004846s
+
+
+Quick sorting:
+Data size: 30000 Time cost: 0.004686s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.93193s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.7277s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.79036s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.75662s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.8382s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.71081s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.72674s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.92157s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.88689s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.81084s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.76804s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.73753s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.69227s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.82945s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.97933s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.88367s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.88754s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.78943s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.66189s
+
+
+Insert sorting:
+Data size: 30000 Time cost: 3.56879s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.72953s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.73094s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.72786s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.74683s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.69171s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.87053s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.8694s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.84479s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.93339s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.86373s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.8233s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.77565s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.82582s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.8301s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.80718s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.84492s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.881s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.82392s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 2.87129s
+
+
+Selection sorting: 
+Data size: 40000 Time cost: 3.00758s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 15.4056s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 13.8086s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 13.5893s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 14.4118s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 14.0285s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 14.7739s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 14.5798s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 14.7843s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 14.6759s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 14.7087s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 13.9864s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 14.2034s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 13.9512s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 13.6343s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 13.6166s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 14.3731s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 14.7864s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 14.1637s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 14.3235s
+
+
+Bubble sorting: 
+Data size: 40000 Time cost: 14.0157s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011924s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011341s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011667s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011427s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011605s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011567s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011426s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011419s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011299s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.01108s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.01163s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011601s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011527s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011363s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011431s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011586s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.011051s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.010745s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.009598s
+
+
+Merge sorting: 
+Data size: 40000 Time cost: 0.010147s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.007263s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.00743s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.006577s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.007124s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.00718s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.00747s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.006912s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.007241s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.007086s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.007339s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.006954s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.007353s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.006916s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.007089s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.0068s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.006909s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.007317s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.007117s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.007051s
+
+
+Quick sorting:
+Data size: 40000 Time cost: 0.006846s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.47646s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.98005s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.04079s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.68182s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.71314s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.59333s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.24313s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.4088s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.32081s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.56883s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 7.53001s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.29276s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.63578s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.92241s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.44949s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.10497s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.86834s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.87947s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.75s
+
+
+Insert sorting:
+Data size: 40000 Time cost: 6.74432s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.31803s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.22982s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.41855s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.31891s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.34341s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.34227s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.25574s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.52054s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.54639s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.36504s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.5704s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.54194s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.34173s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.33927s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.32158s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.30748s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.36132s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.50132s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.43589s
+
+
+Selection sorting: 
+Data size: 50000 Time cost: 4.40723s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 22.4543s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 22.1621s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 22.5137s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 23.0554s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 22.4741s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 21.3005s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 21.48s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 21.9252s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 22.2378s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 21.8737s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 22.0798s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 21.4547s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 21.8997s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 22.6653s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 21.864s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 22.1992s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 22.129s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 22.0126s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 22.5224s
+
+
+Bubble sorting: 
+Data size: 50000 Time cost: 21.5636s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.013421s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.013671s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.011617s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.011637s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.01155s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.011291s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.012974s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.011934s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.011591s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.011668s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.013328s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.011125s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.011857s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.011427s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.012787s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.011341s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.011006s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.014236s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.011587s
+
+
+Merge sorting: 
+Data size: 50000 Time cost: 0.010797s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.009214s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.009348s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.009448s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.009106s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.008286s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.008651s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.009101s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.008408s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.008911s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.008661s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.009296s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.008969s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.009143s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.008452s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.008471s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.008479s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.008112s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.008433s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.008795s
+
+
+Quick sorting:
+Data size: 50000 Time cost: 0.008228s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 11.1654s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.0216s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.2083s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.0099s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.8356s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.7634s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.5772s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 11.137s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.0706s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.243s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.5029s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.2485s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.1473s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.461s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 9.918s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 9.94509s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.3406s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.1826s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.2878s
+
+
+Insert sorting:
+Data size: 50000 Time cost: 10.4353s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 5.1e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 5.2e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 4.8e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 6.4e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 4.7e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 4.7e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 6.2e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 4.9e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 4.6e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 5.9e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 4.8e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 5.6e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 5.2e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 5.7e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 5.7e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 5e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 5.9e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 4.3e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 6.6e-05s
+
+
+Selection sorting: 
+Data size: 100 Time cost: 4.3e-05s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 9.9e-05s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 0.000106s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 9.7e-05s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 9.4e-05s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 9.7e-05s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 0.000113s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 0.000116s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 9.7e-05s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 0.000113s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 9.3e-05s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 0.000157s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 0.000122s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 0.000103s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 0.000121s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 0.000122s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 0.000184s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 9.9e-05s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 9.8e-05s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 0.000132s
+
+
+Bubble sorting: 
+Data size: 100 Time cost: 0.000144s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 5.2e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 3.1e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 4.4e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 3e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 4.7e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 3.2e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 4.6e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 4.3e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 4.2e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 3.1e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 3.7e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 4.4e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 5.1e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 8.1e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 4.1e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 5.2e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 5.2e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 4.9e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 4.4e-05s
+
+
+Merge sorting: 
+Data size: 100 Time cost: 4.5e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.6e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.1e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.5e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.2e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 4e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.1e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.6e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.9e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.5e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.4e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.7e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.9e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.2e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.5e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.3e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.3e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 3.3e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 4.6e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 2.7e-05s
+
+
+Quick sorting:
+Data size: 100 Time cost: 4e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 6.9e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 7.1e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 6.2e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 7.4e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 8.3e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 0.0001s
+
+
+Insert sorting:
+Data size: 100 Time cost: 7.3e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 7e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 8.9e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 8.8e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 8.3e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 8.3e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 9.4e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 8.3e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 8.3e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 9e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 9.2e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 8.8e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 8.4e-05s
+
+
+Insert sorting:
+Data size: 100 Time cost: 9e-05s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.00215s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.001753s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.001782s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.001828s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.001772s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.001779s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.001814s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.00179s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.002001s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.001775s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.00195s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.00203s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.001737s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.001799s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.001745s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.001757s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.001751s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.001745s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.001815s
+
+
+Selection sorting: 
+Data size: 1000 Time cost: 0.00201s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007392s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.008366s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007344s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007252s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007152s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007216s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007656s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007312s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007318s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007327s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007268s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007758s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007826s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007641s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007313s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007581s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.008245s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.008643s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007844s
+
+
+Bubble sorting: 
+Data size: 1000 Time cost: 0.007389s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000178s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000175s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000162s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000172s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000161s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000174s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000213s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000175s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.00017s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000165s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000178s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000199s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000188s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000174s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000173s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000178s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000182s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000164s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000175s
+
+
+Merge sorting: 
+Data size: 1000 Time cost: 0.000266s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000175s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000182s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000166s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000171s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000177s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000165s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000184s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000174s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000175s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000168s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000176s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000171s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000171s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000167s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000185s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000176s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000182s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000182s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000174s
+
+
+Quick sorting:
+Data size: 1000 Time cost: 0.000176s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.003651s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.003555s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.003816s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.004426s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.003726s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.003592s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.004406s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.003659s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.003818s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.003783s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.004588s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.00455s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.004644s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.004167s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.004265s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.003618s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.00403s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.004205s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.004147s
+
+
+Insert sorting:
+Data size: 1000 Time cost: 0.004429s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.176768s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.182085s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.178056s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.187743s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.168967s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.169004s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.194245s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.172475s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.173109s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.187851s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.167559s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.173992s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.16915s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.168102s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.172846s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.172531s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.172855s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.169519s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.171743s
+
+
+Selection sorting: 
+Data size: 10000 Time cost: 0.175725s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.844861s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.865078s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.819783s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.883239s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.899706s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.879027s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.897034s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.904598s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.893145s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.907732s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.869608s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.878185s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.848995s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.912267s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.901607s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.923346s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.924235s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.899209s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.800068s
+
+
+Bubble sorting: 
+Data size: 10000 Time cost: 0.848147s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002654s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002638s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002676s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002629s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002648s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.00264s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002638s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002621s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002631s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002629s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.00263s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002652s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002623s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002612s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002617s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002632s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.002183s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.001848s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.001844s
+
+
+Merge sorting: 
+Data size: 10000 Time cost: 0.001867s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001441s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001419s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.00141s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001412s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001398s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001385s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001478s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001411s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001412s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001394s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001405s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001388s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001409s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001411s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001399s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001432s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001394s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001421s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001419s
+
+
+Quick sorting:
+Data size: 10000 Time cost: 0.001415s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.367154s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.372746s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.395206s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.36795s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.394298s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.393211s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.37493s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.361812s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.360992s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.382034s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.37381s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.364191s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.372181s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.39314s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.402896s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.390103s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.371662s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.36776s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.379905s
+
+
+Insert sorting:
+Data size: 10000 Time cost: 0.374215s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.2151s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.2952s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.207s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.3719s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.1585s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.4021s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.4987s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.6195s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.5062s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.9675s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 18.139s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 18.0768s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.664s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.8068s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.7273s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.0799s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 18.2593s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.4072s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 17.7692s
+
+
+Selection sorting: 
+Data size: 100000 Time cost: 18.2038s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 87.8502s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 87.9178s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 85.3209s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 89.3824s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 88.3223s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 88.9864s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 88.5294s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 87.35s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 86.8554s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 88.5438s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 86.8294s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 85.4299s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 89.5947s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 89.1936s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 88.4444s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 87.6136s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 88.6263s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 85.2514s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 86.7203s
+
+
+Bubble sorting: 
+Data size: 100000 Time cost: 86.7739s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.02474s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.025225s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.024061s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.026086s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.02784s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.026803s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.025946s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.025879s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.027181s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.028249s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.026405s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.025904s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.028643s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.02656s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.024799s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.027256s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.025952s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.02807s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.027741s
+
+
+Merge sorting: 
+Data size: 100000 Time cost: 0.025927s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.017397s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.017689s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.01788s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.018995s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.019371s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.019372s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.019787s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.018292s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.019623s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.019497s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.018302s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.019058s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.017725s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.018744s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.018065s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.017835s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.017826s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.018187s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.018641s
+
+
+Quick sorting:
+Data size: 100000 Time cost: 0.01803s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 41.3899s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 41.2211s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 41.5035s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 41.5416s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 41.2152s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 40.1507s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 41.0377s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 40.0265s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 42.9212s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 40.6149s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 39.9521s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 41.1086s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 41.7748s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 39.8618s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 38.4546s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 40.9021s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 40.474s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 39.8313s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 40.9483s
+
+
+Insert sorting:
+Data size: 100000 Time cost: 42.7882s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1744.54s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1764.58s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1763.91s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1748.54s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1746.71s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1744.8s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1743.22s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1757.46s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1749.64s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1731.91s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1737.17s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1725.77s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1717.44s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1719.65s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1712.98s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1719.23s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1717.71s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1729.61s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1727.67s
+
+
+Selection sorting: 
+Data size: 1000000 Time cost: 1729.28s
+
+
+Bubble sorting: 
+Data size: 1000000 Time cost: 8773.59s
+
+
+Bubble sorting: 
+Data size: 1000000 Time cost: 8871.27s
+
+
+Bubble sorting: 
+Data size: 1000000 Time cost: 8959.96s
+
+
+Bubble sorting: 
+Data size: 1000000 Time cost: 8757.51s
+
+
+Bubble sorting: 
+Data size: 1000000 Time cost: 9001.49s
+
+
+Bubble sorting: 
