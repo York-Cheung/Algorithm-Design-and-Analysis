@@ -4,5 +4,8 @@
         "__tuple": "cpp",
         "algorithm": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "python.formatting.provider": "yapf",
+    "code-runner.saveAllFilesBeforeRun": true
+    
 } 
