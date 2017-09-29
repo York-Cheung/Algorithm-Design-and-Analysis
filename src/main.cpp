@@ -24,6 +24,9 @@ int main(int argc, char *argv[])
         a[i] = rand() % 100000;
         b[i] = 0;
     }
+    // for (int i = 0; i < SIZE; i++)
+    //     cout << a[i] << "  ";
+    // cout << endl;
     // 所选方法
     int sorting_method = argv[1][0] - '0';
     // 计时开始
